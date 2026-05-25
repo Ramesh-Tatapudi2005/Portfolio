@@ -221,7 +221,7 @@ function About() {
                 <p>When I'm not coding, I'm exploring new technologies, attending workshops.</p>
               </div>
               <div className="about-tags">
-                {["📍 Pithapuram, AP", "🎓 Aditya University", "💼 Open to Work", "⚡ MERN Stack"].map(t => (
+                {["📍 Pithapuram, AP", "🎓 Aditya University", "💼 Open to Work", "⚡ Python Full Stack"].map(t => (
                   <span key={t} className="about-tag">{t}</span>
                 ))}
               </div>
