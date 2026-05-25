@@ -164,7 +164,7 @@ function Hero() {
         </Reveal>
         <Reveal delay={0.78}>
           <div className="hero-stats">
-            {[["2+", "Internships"], ["3+", "Projects"], ["8.83", "CGPA"]].map(([n, l]) => (
+            {[["2", "Internships"], ["20+", "Projects"], ["8.89", "CGPA"]].map(([n, l]) => (
               <div key={l} className="stat">
                 <div className="stat-num">{n}</div>
                 <div className="stat-label">{l}</div>
