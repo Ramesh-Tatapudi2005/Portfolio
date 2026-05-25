@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import "./index.css";
+import myImg from "./assets/ramesh.jpg";
 
 /* ── useInView ── */
 function useInView(threshold = 0.12) {
@@ -193,7 +194,7 @@ function About() {
             <div className="avatar-wrap">
               <div className="avatar-border">
                 <img
-                  src="src/assets/ramesh.jpg"
+                  src={myImg}
                   alt="Tatapudi Ramesh"
                   loading="lazy"
                   style={{
