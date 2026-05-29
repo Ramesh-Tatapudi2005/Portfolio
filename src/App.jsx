@@ -215,7 +215,7 @@ function About() {
                 <span className="accent">one commit at a time.</span>
               </h2>
               <div className="about-bio">
-                <p>I'm Tatapudi Ramesh, a passionate Computer Science student at Aditya University, Surampalem (Expected May 2027) with a strong CGPA of 8.83. I hold a Diploma in Computer Engineering from Andhra Polytechnic, Kakinada with 90.71%.</p>
+                <p>I'm Tatapudi Ramesh, a passionate Computer Science student at Aditya University, Surampalem (Expected May 2027) with a strong CGPA of 8.89. I hold a Diploma in Computer Engineering from Andhra Polytechnic, Kakinada with 90.71%.</p>
                 <p>I've gained real-world experience through internships at Krify Software Technologies (Python Full Stack with Django) and AIMS Technologies (MERN Stack), building web applications and collaborating across teams.</p>
                 <p>My expertise spans Python, Django, ReactJS, Node.js, Express.js, and Flutter. I'm currently deepening my MERN stack skills and exploring competitive programming.</p>
                 <p>When I'm not coding, I'm exploring new technologies, attending workshops.</p>
