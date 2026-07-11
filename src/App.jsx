@@ -482,9 +482,9 @@ function CodingPlatforms() {
    ACHIEVEMENTS
 ════════════════════════════════ */
 const achData = [
-  { icon: "🎮", title: "APSSDC Game Design Workshop", desc: "Attended a 7-day workshop on Game Designing using Buildbox, gaining hands-on exposure to visual game development tools and design fundamentals." },
-  { icon: "☕", title: "Java Essentials Bootcamp", desc: "Completed a 3-day Java Essentials Bootcamp by Let's Upgrade and earned certification in core Java programming fundamentals." },
-  { icon: "🎓", title: "Academic Excellence", desc: "Maintaining 8.83 CGPA in B.Tech CSE at Aditya University. Scored 90.71% in Diploma from Andhra Polytechnic, Kakinada." },
+  { title: "APSSDC Game Design Workshop", desc: "Attended a 7-day workshop on Game Designing using Buildbox, gaining hands-on exposure to visual game development tools and design fundamentals." },
+  {  title: "Java Essentials Bootcamp", desc: "Completed a 3-day Java Essentials Bootcamp by Let's Upgrade and earned certification in core Java programming fundamentals." },
+  { title: "Academic Excellence", desc: "Maintaining 8.83 CGPA in B.Tech CSE at Aditya University. Scored 90.71% in Diploma from Andhra Polytechnic, Kakinada." },
 ];
 
 function Achievements() {
