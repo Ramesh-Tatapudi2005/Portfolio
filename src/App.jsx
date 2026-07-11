@@ -446,11 +446,11 @@ function Experience() {
    CODING PLATFORMS
 ════════════════════════════════ */
 const platforms = [
-  { name: "GitHub", handle: "Ramesh-Tatapudi2005", url: "https://github.com/Ramesh-Tatapudi2005", icon: "🐙", color: "#E8EDF5", desc: "Open-source projects & code" },
-  { name: "LeetCode", handle: "Tatapudi_Ramesh", url: "https://leetcode.com/u/Ramesh-Tatapudi/", icon: "🧠", color: "#F59E0B", desc: "DSA & problem solving" },
-  { name: "HackerRank", handle: "Tatapudi_Ramesh", url: "https://www.hackerrank.com/profile/tatapudirameshr1", icon: "💚", color: "#00EA64", desc: "Coding challenges" },
-  { name: "GeeksforGeeks", handle: "Tatapudi_Ramesh", url: "https://www.geeksforgeeks.org/profile/tatapudiramarlf", icon: "🌿", color: "#2F8D46", desc: "CS fundamentals & articles" },
-  { name: "CodeChef", handle: "Tatapudi_Ramesh", url: "https://www.codechef.com/users/ramesh_ram123r", icon: "👨‍🍳", color: "#B17C3A", desc: "Competitive programming" },
+  { name: "GitHub", handle: "Ramesh-Tatapudi2005", url: "https://github.com/Ramesh-Tatapudi2005", color: "#E8EDF5", desc: "Open-source projects & code" },
+  { name: "LeetCode", handle: "Tatapudi_Ramesh", url: "https://leetcode.com/u/Ramesh-Tatapudi/",  color: "#F59E0B", desc: "DSA & problem solving" },
+  { name: "HackerRank", handle: "Tatapudi_Ramesh", url: "https://www.hackerrank.com/profile/tatapudirameshr1", color: "#00EA64", desc: "Coding challenges" },
+  { name: "GeeksforGeeks", handle: "Tatapudi_Ramesh", url: "https://www.geeksforgeeks.org/profile/tatapudiramarlf", color: "#2F8D46", desc: "CS fundamentals & articles" },
+  { name: "CodeChef", handle: "Tatapudi_Ramesh", url: "https://www.codechef.com/users/ramesh_ram123r", color: "#B17C3A", desc: "Competitive programming" },
 ];
 
 function CodingPlatforms() {
